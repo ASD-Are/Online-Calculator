@@ -24,7 +24,7 @@ This project demonstrates how to implement a simple online calculator using HTML
 ## Implementation
 ### HTML
 The HTML file defines the structure of the calculator. It includes a form with a table layout for buttons and an input field for the display.
-First, lets create the HTML document in a code editor such as VS Code. We will use a table to organize the calculator's display and buttons. The key elements here are the <table>, <tr> for rows, <td> for cells, and <input> for the buttons and display screen. This structure helps us to easily layout the calculator interface. For different tags, we will use different column span to create the required layout" 
+First, lets create the HTML document in a code editor such as VS Code. We will use a table to organize the calculator's display and buttons. The key elements here are the "<table>, <tr> for rows, <td> for cells, and <input>" for the buttons and display screen. This structure helps us to easily layout the calculator interface. For different tags, we will use different column span to create the required layout" 
 ```plaintext
 <!DOCTYPE html>
 <html lang="en">
