@@ -24,7 +24,7 @@ This project demonstrates how to implement a simple online calculator using HTML
 ## Implementation
 ### HTML
 The HTML file defines the structure of the calculator. It includes a form with a table layout for buttons and an input field for the display.
-First, lets create the HTML document in a code editor such as VS Code. We will use a table to organize the calculator's display and buttons. The key elements here are the "<table>, <tr> for rows, <td> for cells, and <input>" for the buttons and display screen. This structure helps us to easily layout the calculator interface. For different tags, we will use different column span to create the required layout" 
+First, lets create the HTML document in a code editor such as VS Code. We will use a table to organize the calculator's display and buttons. The key elements here are the `<table>, <tr> for rows, <td> for cells, and <input>` for the buttons and display screen. This structure helps us to easily layout the calculator interface. For different tags, we will use different column span to create the required layout" 
 ```plaintext
 <!DOCTYPE html>
 <html lang="en">
@@ -159,6 +159,8 @@ We set a double border for the table, add spacing between elements, and margins 
 ### Requirements
 - A web browser
 - Code editor (e.g., VS Code)
+![image](https://github.com/ASD-Are/Online-Calculator/assets/93379106/67249ca0-d646-432d-a1dc-a4c3b0aeba2c)
+
 
 ### Getting Started
 To get a local copy up and running, follow these simple steps.
@@ -168,3 +170,6 @@ To get a local copy up and running, follow these simple steps.
    ```sh
    git clone https://github.com/your-username/online-calculator.git
    ```
+### Detail Design Presentation
+[Online Calculator]([https://www.example.com](https://docs.google.com/presentation/d/16SqyLfCqg1LEsncLdDXd0Ahd3FosdzBE8qV-jV2zhqI/edit?usp=sharing))
+
