@@ -107,7 +107,7 @@ First, lets create the HTML document in a code editor such as VS Code. We will u
 
 ```
 
-###CSS
+### CSS
 We set a double border for the table, add spacing between elements, and margins for better layout.
 ```
 <style>
