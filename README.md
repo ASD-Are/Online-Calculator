@@ -171,5 +171,5 @@ To get a local copy up and running, follow these simple steps.
    git clone https://github.com/your-username/online-calculator.git
    ```
 ### Detail Design Presentation
-[Online Calculator]([https://www.example.com](https://docs.google.com/presentation/d/16SqyLfCqg1LEsncLdDXd0Ahd3FosdzBE8qV-jV2zhqI/edit?usp=sharing))
+[Online Calculator](https://docs.google.com/presentation/d/16SqyLfCqg1LEsncLdDXd0Ahd3FosdzBE8qV-jV2zhqI/edit?usp=sharing)
 
